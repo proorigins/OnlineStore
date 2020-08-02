@@ -1,0 +1,249 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/baselalsayyed/Data/projects/Practise/Services/Services.csproj": {}
+  },
+  "projects": {
+    "/Users/baselalsayyed/Data/projects/Practise/Enums/Enums.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/baselalsayyed/Data/projects/Practise/Enums/Enums.csproj",
+        "projectName": "Enums",
+        "projectPath": "/Users/baselalsayyed/Data/projects/Practise/Enums/Enums.csproj",
+        "packagesPath": "/Users/baselalsayyed/.nuget/packages/",
+        "outputPath": "/Users/baselalsayyed/Data/projects/Practise/Enums/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/baselalsayyed/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/baselalsayyed/Data/projects/Practise/Extensions/Extensions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/baselalsayyed/Data/projects/Practise/Extensions/Extensions.csproj",
+        "projectName": "Extensions",
+        "projectPath": "/Users/baselalsayyed/Data/projects/Practise/Extensions/Extensions.csproj",
+        "packagesPath": "/Users/baselalsayyed/.nuget/packages/",
+        "outputPath": "/Users/baselalsayyed/Data/projects/Practise/Extensions/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/baselalsayyed/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "/Users/baselalsayyed/Data/projects/Practise/Enums/Enums.csproj": {
+                "projectPath": "/Users/baselalsayyed/Data/projects/Practise/Enums/Enums.csproj"
+              },
+              "/Users/baselalsayyed/Data/projects/Practise/Models/Models.csproj": {
+                "projectPath": "/Users/baselalsayyed/Data/projects/Practise/Models/Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/baselalsayyed/Data/projects/Practise/Models/Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/baselalsayyed/Data/projects/Practise/Models/Models.csproj",
+        "projectName": "Models",
+        "projectPath": "/Users/baselalsayyed/Data/projects/Practise/Models/Models.csproj",
+        "packagesPath": "/Users/baselalsayyed/.nuget/packages/",
+        "outputPath": "/Users/baselalsayyed/Data/projects/Practise/Models/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/baselalsayyed/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "/Users/baselalsayyed/Data/projects/Practise/Enums/Enums.csproj": {
+                "projectPath": "/Users/baselalsayyed/Data/projects/Practise/Enums/Enums.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/baselalsayyed/Data/projects/Practise/Services/Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/baselalsayyed/Data/projects/Practise/Services/Services.csproj",
+        "projectName": "Services",
+        "projectPath": "/Users/baselalsayyed/Data/projects/Practise/Services/Services.csproj",
+        "packagesPath": "/Users/baselalsayyed/.nuget/packages/",
+        "outputPath": "/Users/baselalsayyed/Data/projects/Practise/Services/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/baselalsayyed/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "/Users/baselalsayyed/Data/projects/Practise/Enums/Enums.csproj": {
+                "projectPath": "/Users/baselalsayyed/Data/projects/Practise/Enums/Enums.csproj"
+              },
+              "/Users/baselalsayyed/Data/projects/Practise/Extensions/Extensions.csproj": {
+                "projectPath": "/Users/baselalsayyed/Data/projects/Practise/Extensions/Extensions.csproj"
+              },
+              "/Users/baselalsayyed/Data/projects/Practise/Models/Models.csproj": {
+                "projectPath": "/Users/baselalsayyed/Data/projects/Practise/Models/Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

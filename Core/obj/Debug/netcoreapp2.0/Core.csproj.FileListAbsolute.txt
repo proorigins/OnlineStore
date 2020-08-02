@@ -1,0 +1,15 @@
+/Users/baselalsayyed/Data/projects/Practise/Core/bin/Debug/netcoreapp2.0/Core.deps.json
+/Users/baselalsayyed/Data/projects/Practise/Core/bin/Debug/netcoreapp2.0/Core.runtimeconfig.json
+/Users/baselalsayyed/Data/projects/Practise/Core/bin/Debug/netcoreapp2.0/Core.runtimeconfig.dev.json
+/Users/baselalsayyed/Data/projects/Practise/Core/bin/Debug/netcoreapp2.0/Core.dll
+/Users/baselalsayyed/Data/projects/Practise/Core/bin/Debug/netcoreapp2.0/Core.pdb
+/Users/baselalsayyed/Data/projects/Practise/Core/obj/Debug/netcoreapp2.0/Core.csprojAssemblyReference.cache
+/Users/baselalsayyed/Data/projects/Practise/Core/obj/Debug/netcoreapp2.0/Core.AssemblyInfoInputs.cache
+/Users/baselalsayyed/Data/projects/Practise/Core/obj/Debug/netcoreapp2.0/Core.AssemblyInfo.cs
+/Users/baselalsayyed/Data/projects/Practise/Core/obj/Debug/netcoreapp2.0/Core.dll
+/Users/baselalsayyed/Data/projects/Practise/Core/obj/Debug/netcoreapp2.0/Core.pdb
+/Users/baselalsayyed/Data/projects/Practise/Core/bin/Debug/netcoreapp2.0/Models.dll
+/Users/baselalsayyed/Data/projects/Practise/Core/bin/Debug/netcoreapp2.0/Models.pdb
+/Users/baselalsayyed/Data/projects/Practise/Core/obj/Debug/netcoreapp2.0/Core.csproj.CopyComplete
+/Users/baselalsayyed/Data/projects/Practise/Core/bin/Debug/netcoreapp2.0/Enums.dll
+/Users/baselalsayyed/Data/projects/Practise/Core/bin/Debug/netcoreapp2.0/Enums.pdb
