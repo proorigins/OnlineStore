@@ -1,0 +1,15 @@
+.idea
+
+Core/bin
+Core/obj
+
+Services/bin
+Services/obj
+
+Models/bin
+Models/obj
+
+Extensions/bin
+Extensions/obj
+
+
