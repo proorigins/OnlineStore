@@ -6,20 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "Core/1.0.0": {
-        "dependencies": {
-          "Models": "1.0.0",
-          "Services": "1.0.0"
-        },
-        "runtime": {
-          "Core.dll": {}
-        }
-      },
-      "Enums/1.0.0": {
-        "runtime": {
-          "Enums.dll": {}
-        }
-      },
       "Extensions/1.0.0": {
         "dependencies": {
           "Enums": "1.0.0",
@@ -29,6 +15,11 @@
           "Extensions.dll": {}
         }
       },
+      "Enums/1.0.0": {
+        "runtime": {
+          "Enums.dll": {}
+        }
+      },
       "Models/1.0.0": {
         "dependencies": {
           "Enums": "1.0.0"
@@ -36,21 +27,11 @@
         "runtime": {
           "Models.dll": {}
         }
-      },
-      "Services/1.0.0": {
-        "dependencies": {
-          "Enums": "1.0.0",
-          "Extensions": "1.0.0",
-          "Models": "1.0.0"
-        },
-        "runtime": {
-          "Services.dll": {}
-        }
       }
     }
   },
   "libraries": {
-    "Core/1.0.0": {
+    "Extensions/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -60,17 +41,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Extensions/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Models/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

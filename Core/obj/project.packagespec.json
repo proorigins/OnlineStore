@@ -20,6 +20,9 @@
         "projectReferences": {
           "/Users/baselalsayyed/Data/projects/Practise/Models/Models.csproj": {
             "projectPath": "/Users/baselalsayyed/Data/projects/Practise/Models/Models.csproj"
+          },
+          "/Users/baselalsayyed/Data/projects/Practise/Services/Services.csproj": {
+            "projectPath": "/Users/baselalsayyed/Data/projects/Practise/Services/Services.csproj"
           }
         }
       }

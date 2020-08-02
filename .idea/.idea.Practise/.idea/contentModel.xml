@@ -30,7 +30,6 @@
       <e p="Extensions" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="CartExtensions.cs" t="Include" />
-        <e p="Class1.cs" t="Include" />
         <e p="Extensions.csproj" t="IncludeRecursive" />
         <e p="ItemExtensions.cs" t="Include" />
         <e p="ItemGroupExtensions.cs" t="Include" />
@@ -61,10 +60,6 @@
           <e p="Item.cs" t="Include" />
           <e p="ItemStats.cs" t="Include" />
         </e>
-        <e p="Logging" t="Include">
-          <e p="ILoggingService.cs" t="Include" />
-          <e p="LoggingService.cs" t="Include" />
-        </e>
         <e p="Models.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -85,11 +80,7 @@
         <e p="Readme.cs" t="Include" />
         <e p="Shipping" t="Include">
           <e p="Cart.cs" t="Include" />
-          <e p="CartService.cs" t="Include" />
           <e p="ICart.cs" t="Include" />
-          <e p="ICartService.cs" t="Include" />
-          <e p="IStoreLocalizerService.cs" t="Include" />
-          <e p="StoreLocalizerService.cs" t="Include" />
         </e>
         <e p="Store" t="Include">
           <e p="IStore.cs" t="Include" />
@@ -98,6 +89,25 @@
       </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="Practise.sln" t="IncludeFlat" />
+      <e p="Services" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CartService.cs" t="Include" />
+        <e p="ICartService.cs" t="Include" />
+        <e p="IStoreLocalizerService.cs" t="Include" />
+        <e p="Logging" t="Include">
+          <e p="ILoggingService.cs" t="Include" />
+          <e p="LoggingService.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Services.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Services.csproj" t="IncludeRecursive" />
+        <e p="StoreLocalizerService.cs" t="Include" />
+      </e>
     </e>
     <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
     <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_Practise.-319301401.00" t="ExcludeRecursive" />

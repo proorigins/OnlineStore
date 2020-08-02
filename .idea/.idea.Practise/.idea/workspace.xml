@@ -8,6 +8,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Models/PaymentMethod/Card.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Models/Item/Item.cs" root0="FORCE_HIGHLIGHTING" />
@@ -18,12 +21,12 @@
     <setting file="file://$PROJECT_DIR$/Models/Readme.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Models/Account/Account.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Models/Account/IAccount.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Models/Extensions/ItemGroupExtensions.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Models/Shipping/StoreLocalizerService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Models/Shipping/IStoreLocalizerService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Models/Extensions/ItemExtensions.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Models/Logging/LoggingService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Models/Logging/ILoggingService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Extensions/ItemGroupExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Services/StoreLocalizerService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Services/IStoreLocalizerService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Extensions/ItemExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Services/Logging/LoggingService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Services/Logging/ILoggingService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Core/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Models/Item/ItemStats.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Models/Item/IItemBase.cs" root0="FORCE_HIGHLIGHTING" />
@@ -32,9 +35,9 @@
     <setting file="file://$PROJECT_DIR$/Models/PaymentMethod/Paypal.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Models/PaymentMethod/IDigitalPaymentMethod.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Models/PaymentMethod/MasterCard.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Models/Shipping/CartService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Services/CartService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Models/PaymentMethod/ICard.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Models/Shipping/ICartService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Services/ICartService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Models/PaymentMethod/VisaCard.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Models/Store/Store.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Models/PaymentMethod/ITransaction.cs" root0="FORCE_HIGHLIGHTING" />
@@ -42,19 +45,13 @@
     <setting file="file://$PROJECT_DIR$/Enums/Currency.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9BDEB072-3583-45D1-B1EB-9BAB75B57689/10/50ded4ed/List`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Models/CurrencyUtils/CurrencyRatio.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Models/Extensions/CartExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Extensions/CartExtensions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Models/Shipping/Cart.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Models/Extensions/StoreExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Extensions/StoreExtensions.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Core/Classes/Car.cs" />
-        <option value="$PROJECT_DIR$/Core/Classes/CarList.cs" />
-        <option value="$PROJECT_DIR$/Models/Payment/CreditCard.cs" />
-        <option value="$PROJECT_DIR$/Models/Payment/IPaymentMethod.cs" />
-        <option value="$PROJECT_DIR$/Models/Payment/IDigitalPaymentMethod.cs" />
-        <option value="$PROJECT_DIR$/Models/Payment/Payable.cs" />
         <option value="$PROJECT_DIR$/Enums/Class1.cs" />
         <option value="$PROJECT_DIR$/Models/Payment/ICard.cs" />
         <option value="$PROJECT_DIR$/Models/Payment/IPayable.cs" />
@@ -86,11 +83,9 @@
         <option value="$PROJECT_DIR$/Models/Extensions/ItemExtensions.cs" />
         <option value="$PROJECT_DIR$/Models/Shipping/IStoreService.cs" />
         <option value="$PROJECT_DIR$/Models/Shipping/IStoreLocalizerService.cs" />
-        <option value="$PROJECT_DIR$/Models/Shipping/Cart.cs" />
         <option value="$PROJECT_DIR$/Models/Shipping/ICart.cs" />
         <option value="$PROJECT_DIR$/Models/Extensions/ItemGroupExtensions.cs" />
         <option value="$PROJECT_DIR$/Models/Store/IStore.cs" />
-        <option value="$PROJECT_DIR$/Models/Store/Store.cs" />
         <option value="$PROJECT_DIR$/Models/Shipping/StoreLocalizerService.cs" />
         <option value="$PROJECT_DIR$/Models/Shipping/ICartService.cs" />
         <option value="$PROJECT_DIR$/Models/CurrencyUtils/CurrencyUtils.cs" />
@@ -98,6 +93,16 @@
         <option value="$PROJECT_DIR$/Models/Shipping/CartService.cs" />
         <option value="$PROJECT_DIR$/Core/Program.cs" />
         <option value="$PROJECT_DIR$/Models/Extensions/StoreExtensions.cs" />
+        <option value="$PROJECT_DIR$/Core/Extensions.cs" />
+        <option value="$PROJECT_DIR$/Extensions/Class1.cs" />
+        <option value="$PROJECT_DIR$/Extensions/ItemExtensions.cs" />
+        <option value="$PROJECT_DIR$/Extensions/ItemGroupExtensions.cs" />
+        <option value="$PROJECT_DIR$/Services/Class1.cs" />
+        <option value="$PROJECT_DIR$/Models/Shipping/Cart.cs" />
+        <option value="$PROJECT_DIR$/Models/Store/Store.cs" />
+        <option value="$PROJECT_DIR$/Extensions/CartExtensions.cs" />
+        <option value="$PROJECT_DIR$/Services/StoreLocalizerService.cs" />
+        <option value="$PROJECT_DIR$/Services/CartService.cs" />
       </list>
     </option>
   </component>
@@ -150,7 +155,7 @@
       <option name="presentableId" value="Default" />
       <updated>1595010983315</updated>
       <workItem from="1595010987178" duration="1887000" />
-      <workItem from="1596364477944" duration="19290000" />
+      <workItem from="1596364477944" duration="19926000" />
     </task>
     <servers />
   </component>
@@ -242,14 +247,14 @@
           <option name="timeStamp" value="1" />
         </breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Models/Shipping/CartService.cs</url>
+          <url>file://$PROJECT_DIR$/Services/CartService.cs</url>
           <line>71</line>
           <properties documentPath="$PROJECT_DIR$/Models/Shipping/CartService.cs" initialLine="70">
             <startOffsets>
-              <option value="2083" />
+              <option value="2135" />
             </startOffsets>
             <endOffsets>
-              <option value="2187" />
+              <option value="2239" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="13" />

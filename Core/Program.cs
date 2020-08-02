@@ -1,14 +1,15 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using Enums;
+using Extensions;
 using Models;
 using Models.Account;
-using Models.Extensions;
 using Models.Item;
-using Models.Logging;
 using Models.PaymentMethod;
 using Models.Shipping;
 using Models.Store;
+using Services;
+using Services.Logging;
 
 namespace Core
 {
@@ -24,6 +25,7 @@ namespace Core
             IStore store = new Store();
             ICart myCart = new Cart();
             var myPaymentMethod = myAccount.PaymentMethods.Single(); 
+            
             ILoggingService loggingService = new LoggingService();
             ICartService cartService = new CartService();
             IStoreLocalizerService storeLocalizerService = new StoreLocalizerService();
@@ -43,7 +45,7 @@ namespace Core
             
             //fill my cart
             cartService.AddToCart(store, myCart, 1, 3);
-            cartService.AddToCart(store, myCart, 2, 4);
+            cartService.AddToCart(store, myCart, 2, 8);
             
             //Process Payment
             loggingService.Log($"My Balance: {myPaymentMethod.Amount}");

@@ -207,6 +207,20 @@
           "bin/placeholder/Enums.dll": {}
         }
       },
+      "Extensions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Enums": "1.0.0",
+          "Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Extensions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Extensions.dll": {}
+        }
+      },
       "Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
@@ -218,6 +232,21 @@
         },
         "runtime": {
           "bin/placeholder/Models.dll": {}
+        }
+      },
+      "Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Enums": "1.0.0",
+          "Extensions": "1.0.0",
+          "Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.dll": {}
         }
       }
     }
@@ -697,16 +726,27 @@
       "path": "../Enums/Enums.csproj",
       "msbuildProject": "../Enums/Enums.csproj"
     },
+    "Extensions/1.0.0": {
+      "type": "project",
+      "path": "../Extensions/Extensions.csproj",
+      "msbuildProject": "../Extensions/Extensions.csproj"
+    },
     "Models/1.0.0": {
       "type": "project",
       "path": "../Models/Models.csproj",
       "msbuildProject": "../Models/Models.csproj"
+    },
+    "Services/1.0.0": {
+      "type": "project",
+      "path": "../Services/Services.csproj",
+      "msbuildProject": "../Services/Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.NETCore.App >= 2.0.0",
-      "Models >= 1.0.0"
+      "Models >= 1.0.0",
+      "Services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -739,6 +779,9 @@
           "projectReferences": {
             "/Users/baselalsayyed/Data/projects/Practise/Models/Models.csproj": {
               "projectPath": "/Users/baselalsayyed/Data/projects/Practise/Models/Models.csproj"
+            },
+            "/Users/baselalsayyed/Data/projects/Practise/Services/Services.csproj": {
+              "projectPath": "/Users/baselalsayyed/Data/projects/Practise/Services/Services.csproj"
             }
           }
         }

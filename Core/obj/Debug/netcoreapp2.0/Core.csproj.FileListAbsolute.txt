@@ -13,3 +13,7 @@
 /Users/baselalsayyed/Data/projects/Practise/Core/obj/Debug/netcoreapp2.0/Core.csproj.CopyComplete
 /Users/baselalsayyed/Data/projects/Practise/Core/bin/Debug/netcoreapp2.0/Enums.dll
 /Users/baselalsayyed/Data/projects/Practise/Core/bin/Debug/netcoreapp2.0/Enums.pdb
+/Users/baselalsayyed/Data/projects/Practise/Core/bin/Debug/netcoreapp2.0/Extensions.dll
+/Users/baselalsayyed/Data/projects/Practise/Core/bin/Debug/netcoreapp2.0/Services.dll
+/Users/baselalsayyed/Data/projects/Practise/Core/bin/Debug/netcoreapp2.0/Services.pdb
+/Users/baselalsayyed/Data/projects/Practise/Core/bin/Debug/netcoreapp2.0/Extensions.pdb
