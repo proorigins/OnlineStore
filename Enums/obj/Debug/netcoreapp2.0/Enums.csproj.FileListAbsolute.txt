@@ -1,8 +1,0 @@
-/Users/baselalsayyed/Data/projects/Practise/Enums/bin/Debug/netcoreapp2.0/Enums.deps.json
-/Users/baselalsayyed/Data/projects/Practise/Enums/bin/Debug/netcoreapp2.0/Enums.dll
-/Users/baselalsayyed/Data/projects/Practise/Enums/bin/Debug/netcoreapp2.0/Enums.pdb
-/Users/baselalsayyed/Data/projects/Practise/Enums/obj/Debug/netcoreapp2.0/Enums.csprojAssemblyReference.cache
-/Users/baselalsayyed/Data/projects/Practise/Enums/obj/Debug/netcoreapp2.0/Enums.AssemblyInfoInputs.cache
-/Users/baselalsayyed/Data/projects/Practise/Enums/obj/Debug/netcoreapp2.0/Enums.AssemblyInfo.cs
-/Users/baselalsayyed/Data/projects/Practise/Enums/obj/Debug/netcoreapp2.0/Enums.dll
-/Users/baselalsayyed/Data/projects/Practise/Enums/obj/Debug/netcoreapp2.0/Enums.pdb
